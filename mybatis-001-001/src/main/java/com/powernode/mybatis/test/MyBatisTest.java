@@ -19,5 +19,7 @@ public class MyBatisTest  {
             sqlSession.commit();
         }
 
+        System.out.println("111");
+
     }
 }
